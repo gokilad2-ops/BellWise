@@ -1,4 +1,4 @@
-# Study Schedule — C++17
+# BellWise— C++17
 
 A lightweight terminal-based student timetable manager written in standard C++17. This package includes the supplied `main.cpp` plus the missing UI/model header and build script so it can compile as a complete project.
 
