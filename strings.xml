@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Study Schedule</string>
+    <string name="add_pair">Add pair</string>
+    <string name="edit_pair">Edit pair</string>
+    <string name="add_window">Add window</string>
+    <string name="previous_day">Previous day</string>
+    <string name="next_day">Next day</string>
+    <string name="settings">Settings</string>
+    <string name="room">Room</string>
+    <string name="subject_name">Subject name</string>
+    <string name="this_is_a_window">This is a window (gap between pairs)</string>
+    <string name="save">Save</string>
+    <string name="choose_color_palette">Choose a color palette</string>
+</resources>
