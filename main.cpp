@@ -126,6 +126,7 @@ int main(int argc, char** argv) {
                     int k = std::atoi(in.c_str());
                     if (k >= 1 && (size_t)k <= ui::kThemeCount) { s.theme = k - 1; s.save(); }
                     break;
+                    
                 }
                 case 'w': {
                     ui::clearScreen();
